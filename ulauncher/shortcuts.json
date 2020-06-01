@@ -1,0 +1,52 @@
+{
+    "23c3edf3-a32f-4fb9-960b-05f7175a2fbc": {
+        "id": "23c3edf3-a32f-4fb9-960b-05f7175a2fbc",
+        "name": "Google Search",
+        "keyword": "g",
+        "cmd": "!/bin/bash\nurl=google.com/search?q=\"$*\"\nfirefox \"$url\"",
+        "icon": "/usr/share/ulauncher/media/google-search-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1586549182.6754842
+    },
+    "038c65a7-78d9-4dbd-bdba-6fab5ca9b60a": {
+        "id": "038c65a7-78d9-4dbd-bdba-6fab5ca9b60a",
+        "name": "Canvas",
+        "keyword": "canvas",
+        "cmd": "firefox canvas.colorado.edu",
+        "icon": "~/.config/.ico/canvas_logo.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1586552684.1299925
+    },
+    "b35f07b3-174f-4c03-a813-1c6c08ecc864": {
+        "id": "b35f07b3-174f-4c03-a813-1c6c08ecc864",
+        "name": "Gmail 007andpandakyle",
+        "keyword": "gmail0",
+        "cmd": "firefox mail.google.com/mail/u/0/#inbox",
+        "icon": "~/.config/.ico/gmail_logo.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1586569221.1396613
+    },
+    "77648fa8-8311-4079-be20-3c1beb9b1281": {
+        "id": "77648fa8-8311-4079-be20-3c1beb9b1281",
+        "name": "Gmail kylez2222",
+        "keyword": "gmail1",
+        "cmd": "firefox mail.google.com/mail/u/1/#inbox",
+        "icon": "~/.config/.ico/gmail_logo.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1586569248.7958965
+    },
+    "0266de71-5cce-4514-a145-ac1593f69ea1": {
+        "id": "0266de71-5cce-4514-a145-ac1593f69ea1",
+        "name": "Gmail kyzh4077",
+        "keyword": "gmail2",
+        "cmd": "firefox mail.google.com/mail/u/2/#inbox",
+        "icon": "~/.config/.ico/gmail_logo.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1586569279.2365694
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "com.github.katacarbix.ulauncher-dict-en": {
+        "id": "com.github.katacarbix.ulauncher-dict-en",
+        "url": "https://github.com/katacarbix/ulauncher-dict-en",
+        "updated_at": "2020-04-10T14:26:53.742482",
+        "last_commit": "50841bbd6690a81f18a9a0fbe9e96e5663066961",
+        "last_commit_time": "2020-04-09T23:00:03"
+    },
+    "com.github.skykooler.ulauncher-conversion": {
+        "id": "com.github.skykooler.ulauncher-conversion",
+        "url": "https://github.com/skykooler/ulauncher-conversion",
+        "updated_at": "2020-04-10T14:37:41.807719",
+        "last_commit": "e0c707cbdaff04de8d7aecf002535176ad562c4e",
+        "last_commit_time": "2019-07-09T14:41:19"
+    }
+}
