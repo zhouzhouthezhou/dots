@@ -7,6 +7,9 @@ set clipboard=unnamedplus
 set noshowmode
 set wildmenu
 set cursorline
+set ts=4 sw=4
+set splitright
+set splitbelow
 
 
 call plug#begin('~/.vim/plugged')
@@ -33,3 +36,4 @@ hi LineNr ctermbg=none
 
 hi clear CursorLine
 hi CursorLine gui=underline cterm=underline
+
